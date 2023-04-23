@@ -1,3 +1,7 @@
+To lauch the project you should go to the `example_win32_directx9` folder in `examples` folder and launch `imgui_examples.sln`
+
+
+
 Dear ImGui
 =====
 
